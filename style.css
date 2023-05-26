@@ -2,4 +2,7 @@
 --cor-de-fundo: #f5e8d8;
 }
 body {
-    background-color: var(--cor-de-fundo);
+    background-color: var(--cor-de-fundo);}
+.img {
+    width: 40;
+}
