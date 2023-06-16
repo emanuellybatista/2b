@@ -10,7 +10,7 @@ body {
 }
 .roupas {
 display:grid;
-grid-template-columns: 50% 30% ;
+grid-template-columns: ;
 }
 h1{
     text-align: center;
