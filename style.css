@@ -36,3 +36,8 @@ h6{
 h5{
     font-size:23px;
 }
+display:flex;
+
+justify-content: space-around;
+
+}
