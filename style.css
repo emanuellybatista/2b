@@ -8,7 +8,10 @@ body {
     display:flex;
     
 }
-
+.roupas {
+display:grid;
+grid-template-columns: 20% 20% 20% 20%;
+}
 h1{
     text-align: center;
     font-size: 70px;
@@ -26,8 +29,4 @@ color:red;
 h5{
 color:red;
     font-size:30px;
-}
-.roupas {
-display:grid;
-grid-template-columns: 20% 20% 20% 20%;
 }
