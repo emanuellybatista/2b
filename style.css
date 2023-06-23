@@ -13,6 +13,16 @@ body {
     display:flex;
     
 }
+.img3 {
+    width: 30%;
+    display:flex;
+    
+}
+.img4{
+    width: 30%;
+    display:flex;
+    
+}
 .roupas {
 display:grid;
 grid-template-columns: ;
