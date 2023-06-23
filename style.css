@@ -42,6 +42,7 @@ h5{
 ul{
     text-align:center;
 }
-.roupas{
-display: flex;
+.tecido{
+    display: flex;
+    justify-content: center;
 }
