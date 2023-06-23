@@ -44,3 +44,7 @@ justify-content: space-around;
 ul{
     text-align:center;
 }
+.roupas{
+    display: flex;
+    justify-content: center;
+}
