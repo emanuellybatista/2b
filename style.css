@@ -58,10 +58,14 @@ h5{
 .r{
     display: flex;
 }
-a{
+p{
     text-align:end;
 }
-a{
+p{
+    text-align:end;
+}
+  
+p{
     text-align:end;
 }
   
