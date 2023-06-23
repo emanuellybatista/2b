@@ -4,7 +4,12 @@
 body {
     background-color: var(--cor-de-fundo);}
 .img1 {
-    width: 30%;
+    width: 20%;
+    display:flex;
+    
+}
+.img2{
+    width: 20%;
     display:flex;
     
 }
