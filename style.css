@@ -57,8 +57,15 @@ h5{
   
 .r{
     display: flex;
+}
+a{
+    display:grid;
+}
+ul{
+    display:grid;
+}
   
-} 
+
 .entrega{
     font-size:30px;
     text-align: end;
