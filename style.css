@@ -49,9 +49,9 @@ ul{
 }
 .tecido{
     display: flex;
+}
   
 .r{
     display: flex;
-    justify-content: center;
+  
 } 
-}
