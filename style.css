@@ -59,10 +59,10 @@ h5{
     display: flex;
 }
 a{
-    display:grid;
+    text-align:end;
 }
 ul{
-    display:grid;
+    text-align:end;
 }
   
 
