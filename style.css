@@ -49,8 +49,7 @@ ul{
 }
 .tecido{
     display: flex;
-    justify-content: center;
-}
+  
 .r{
     display: flex;
     justify-content: center;
