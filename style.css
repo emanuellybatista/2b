@@ -41,12 +41,6 @@ h6{
 h5{
     font-size:23px;
 }
-
-
-
-.entrega{
-    text-align:center;
-}
 .tecido{
     display: flex;
 }
@@ -55,7 +49,7 @@ h5{
     display: flex;
   
 } 
-li{
+.entrega{
     font-size:30px;
     text-align: end;
 }
